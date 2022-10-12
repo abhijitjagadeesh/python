@@ -1,16 +1,16 @@
-words = [ 'a', 'other', 'bat', 'cat', 'cta', 'tab']
-anagrams = {}
+WORDS = [ 'a', 'other', 'bat', 'cat', 'cta', 'tab']
+ANAGRAMS = {}
 
 
-def organise(word):
-    sorted_word = ''.join(sorted(word))
-    if sorted_word in anagrams.keys():
-        anagrams[sorted_word].append(word)
+def organize(input_word):
+    sorted_word = ''.join(sorted(input_word))
+    if sorted_word in ANAGRAMS.keys():
+        ANAGRAMS[sorted_word].append(input_word)
     else:
-        anagrams[sorted_word] = [word]
+        ANAGRAMS[sorted_word] = [input_word]
 
 
-for word in words:
-    organise(word)
+for word in WORDS:
+    organize(word)
 
-print(f'{list(anagrams.values())}')
+print(f'{list(ANAGRAMS.values())}')
