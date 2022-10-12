@@ -4,3 +4,7 @@ def sorted_squared_numbers(input_array):
     return [number**2 for number in input_array]
 
 print(sorted_squared_numbers(array))
+
+
+# one liner using map
+print(list(map(lambda x: x*x, array)))
