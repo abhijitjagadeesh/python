@@ -1,0 +1,72 @@
+{
+	"folders": [
+		{
+			"name": "2dMazeSortestPathBFS",
+			"path": "../2dMazeSortestPathBFS"
+		},
+		{
+			"name": "anagram",
+			"path": "../anagram"
+		},
+		{
+			"name": "connectedComponentsCountUsingDFS",
+			"path": "../connectedComponentsCountUsingDFS"
+		},
+		{
+			"name": "firstNonRepeatingCharacterIndex",
+			"path": "../firstNonRepeatingCharacterIndex"
+		},
+		{
+			"name": "hasPathUsingBFS",
+			"path": "../hasPathUsingBFS"
+		},
+		{
+			"name": "hasPathUsingDFS",
+			"path": "../hasPathUsingDFS"
+		},
+		{
+			"name": "palidrome",
+			"path": "../palidrome"
+		},
+		{
+			"name": "primeBetween3And100",
+			"path": "../primeBetween3And100"
+		},
+		{
+			"name": "shortestPathCountUsingBFSInEdges",
+			"path": "../shortestPathCountUsingBFSInEdges"
+		},
+		{
+			"name": "sky",
+			"path": "../sky"
+		},
+		{
+			"name": "sortedSquaredArray",
+			"path": "../sortedSquaredArray"
+		},
+		{
+			"name": "traverseGraphUsingBFS",
+			"path": "../traverseGraphUsingBFS"
+		},
+		{
+			"name": "traverseGraphUsingDFS",
+			"path": "../traverseGraphUsingDFS"
+		},
+		{
+			"name": "twoNumberSum",
+			"path": "../twoNumberSum"
+		},
+		{
+			"name": "undirectedPathHasPathUsingDFS",
+			"path": "../undirectedPathHasPathUsingDFS"
+		},
+		{
+			"name": "validateSubSequence",
+			"path": "../validateSubSequence"
+		},
+		{
+			"path": "../test"
+		}
+	],
+	"settings": {}
+}
