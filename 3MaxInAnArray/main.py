@@ -1,5 +1,5 @@
 """
-Return max 3 numbers in input array sorted in ascending order with using sort
+Return max 3 numbers from input array sorted in ascending order without using sort
 """
 
 RESULT = [None, None, None]
