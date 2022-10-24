@@ -72,10 +72,17 @@
 		},
 		{
 			"path": "../fizzbuzz"
+		},
+		{
+			"path": "../dynamically-generate-pattern"
 		}
 	],
 	"settings": {
 		"python.linting.pylintEnabled": true,
 		"files.trimTrailingWhitespace": true,
+		"editor.defaultFormatter": "ms-python.python",
+		"editor.definitionLinkOpensInPeek": true,
+    "editor.detectIndentation": false,
+    "editor.tabCompletion": "off",
 	}
 }
